@@ -4,7 +4,7 @@
 ![Licencia](https://img.shields.io/badge/Licencia-GPLv3-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 
-![Pantalla Principal](img/admin.png)
+
 ![Pantalla Principal](img/dashboard.png)
 ![Pantalla Principal](img/historial_mov.png)
 ![Pantalla Principal](img/producto.png)
