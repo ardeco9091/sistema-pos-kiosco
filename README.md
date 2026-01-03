@@ -4,7 +4,11 @@
 ![Licencia](https://img.shields.io/badge/Licencia-GPLv3-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 
-![Pantalla Principal](img/stock.png)
+![Pantalla Principal](img/admin.png)
+![Pantalla Principal](img/dashboard.png)
+![Pantalla Principal](img/historial_mov.png)
+![Pantalla Principal](img/producto.png)
+![Pantalla Principal](img/rep_dia.png)
 
 Un sistema completo de Punto de Venta (POS) diseñado para pequeños comercios (kioscos, despensas). Incluye gestión de stock, usuarios con roles, reportes de ventas y logs de auditoría.
 
@@ -81,4 +85,4 @@ Si no eres programador y solo quieres probar el programa, no necesitas descargar
 
 
 ```markdown
-![Pantalla Principal](img/stock.png)
+![Pantalla Principal](img/dashboard.png)
