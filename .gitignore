@@ -1,0 +1,16 @@
+# Base de datos (No subir datos reales)
+*.db
+negocio.db
+
+# Temporales de Python
+__pycache__/
+*.pyc
+
+# Carpetas de compilación (del .exe)
+build/
+dist/
+*.spec
+
+# Entornos virtuales (si usas)
+env/
+venv/
