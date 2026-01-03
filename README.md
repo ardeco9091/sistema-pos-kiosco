@@ -31,7 +31,7 @@ El código fuente disponible en este repositorio contiene una **Lógica de Demos
 > Por favor, contacta al desarrollador para adquirir la versión **PRO** (Ejecutable sin restricciones + Soporte Técnico).
 >
 > 📧 **Contacto:** [ardeco9091@gmail.com]
-> 💼 **LinkedIn:** [https://www.linkedin.com/in/ariel-artur-de-la-villarmois-informatica/]
+> 💼 **LinkedIn:** [Ver Perfil Profesional](https://www.linkedin.com/in/ariel-artur-de-la-villarmois-informatica/)
 
 ---
 
